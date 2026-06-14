@@ -16,7 +16,7 @@
      ╚══════════════════════════════════════════════════════════════╝ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Aditi+Sharma;Data+Science+%26+AI%2FML+Engineer+%7C+Building+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%91%8B+Hi%2C+I'm+Aditi+Sharma;Data+Science+%26+AI%2FML+Engineer;Building+Intelligent+Systems" alt="Typing SVG" />
   </a>
 </div>
 
