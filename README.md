@@ -184,21 +184,6 @@
 
 <br/>
 
----
-
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║                    TROPHIES                                 ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30px" align="center"/> &nbsp; Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jiya2000&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</div>
-
-<br/>
-
----
 
 <!-- ╔══════════════════════════════════════════════════════════════╗
      ║               CONTRIBUTION GRAPH & SNAKE                    ║
