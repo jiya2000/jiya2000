@@ -82,23 +82,13 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="30px" align="center"/> &nbsp; Let's Connect
 
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/aditi-sharma-b2083a28b">
-    <img src="https://img.shields.io/badge/LINKEDIN-JOIN_MY_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/jiya2000">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW_ME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:aditisharma20004@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-REACH_OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35px"/>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditi-sharma-b2083a28b">LinkedIn</a>
+  ·
+  <a href="https://github.com/jiya2000">GitHub</a>
+  ·
+  <a href="mailto:aditisharma20004@gmail.com">Email</a>
+</p>
 
 <br/>
 
@@ -108,55 +98,20 @@
      ║                   TECH STACK / SKILLS                       ║
      ╚══════════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30px" align="center"/> &nbsp; Technical Skills
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30px" align="center"/> &nbsp; Tech I Use
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,scikit,tensorflow,pytorch,azure,kubernetes,terraform,docker,githubactions,numpy,pandas,fastapi,flask,qt,git,web3,arduino&theme=dark" alt="Tech stack icons" />
 </p>
 
-### 🧠 Machine Learning & AI
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-5A2D82?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-FF4081?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-6D28D9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-0891B2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6D00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-009688?style=for-the-badge"/>
-</p>
+<br/>
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-### 🛠️ Libraries, Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qdrant-4F46E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LlamaParse-FF6B35?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino%2FIoT-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
+| Area | Tools |
+|---|---|
+| AI / ML | Scikit-Learn, TensorFlow, PyTorch, LangChain, LangGraph, RAG, LLMs, Computer Vision, NLP |
+| Data / Backend | NumPy, Pandas, FastAPI, Flask, Qdrant, LlamaParse, SQL |
+| Infra / DevOps | Microsoft Azure, Kubernetes, Terraform, Docker, CI/CD, Git |
+| Web / Hardware | JavaScript, HTML/CSS, Web3, PyQt5, Arduino/IoT |
 
 <br/>
 
@@ -200,19 +155,7 @@
 
 <br/>
 
----
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║                ACTIVITY GRAPH                               ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" width="30px" align="center"/> &nbsp; Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiya2000&bg_color=0D1117&color=A855F7&line=E040FB&point=FFFFFF&area=true&area_color=A855F7&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
-
-<br/>
 
 ---
 
