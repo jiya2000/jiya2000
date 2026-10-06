@@ -168,19 +168,18 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px" align="center"/> &nbsp; GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiya2000&theme=tokyonight" alt="Aditi's GitHub profile summary" />
+</p>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jiya2000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=E040FB&text_color=C9D1D9&ring_color=A855F7" alt="GitHub Stats"/>
-  &nbsp;
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jiya2000&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=E040FB&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=636E7B" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiya2000&theme=tokyonight" alt="Aditi's repositories by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiya2000&theme=tokyonight" alt="Aditi's most committed languages" />
+</p>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiya2000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=10" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jiya2000&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=E040FB&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=636E7B" alt="Aditi's GitHub streak" />
+</p>
 
 <br/>
 
